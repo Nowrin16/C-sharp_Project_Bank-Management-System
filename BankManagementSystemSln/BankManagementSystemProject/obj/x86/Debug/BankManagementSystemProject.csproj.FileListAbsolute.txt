@@ -1,0 +1,15 @@
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\bin\x86\Debug\BankManagementSystemProject.exe.config
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\bin\x86\Debug\BankManagementSystemProject.exe
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\bin\x86\Debug\BankManagementSystemProject.pdb
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Presentation_Layer.AccDetails.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Presentation_Layer.AdminHome.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Presentation_Layer.CashierHome.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Presentation_Layer.CustomerHome.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Presentation_Layer.EmpDetails.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Login.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.Properties.Resources.resources
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.csproj.GenerateResource.cache
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.csproj.CoreCompileInputs.cache
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.exe
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.pdb
+H:\C sharp\BankManagementSystemSln\BankManagementSystemProject\obj\x86\Debug\BankManagementSystemProject.csprojAssemblyReference.cache
